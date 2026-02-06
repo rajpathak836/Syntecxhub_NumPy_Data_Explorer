@@ -1,2 +1,8 @@
-# Syntecxhub_NumPy_Data_Explorer
-A NumPy-based data exploration project demonstrating array operations, statistical analysis, performance comparison, and visualizations.
+# NumPy Data Explorer (Fixed)
+
+Project 1 for Syntecxhub Data Science Internship.
+This version auto-creates required folders to avoid errors.
+
+Run:
+pip install numpy pandas matplotlib seaborn
+python analysis.py
